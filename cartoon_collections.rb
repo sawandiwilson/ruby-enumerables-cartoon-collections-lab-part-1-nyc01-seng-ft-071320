@@ -11,8 +11,8 @@ end
 def list_dwarves(array)
   dwarves_array = ["Gimli", "Thorin", "Balin", "Gloin"]
   # Use `each_with_index` to enumerate over the provided array
-dwarves_arry.each do |title|
-  puts title
+dwarves_array.each do |array|
+  puts array
   
   #
   # Print a numbered list of each element
