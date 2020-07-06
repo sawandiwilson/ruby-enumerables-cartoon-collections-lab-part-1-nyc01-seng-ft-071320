@@ -1,7 +1,7 @@
 def greet_characters(array)
-  characters_array = ["Hoggle", "Ludo", "Sir Didymus"]
+  characters_array =   dwarves = ["Dopey", "Grumpy", "Bashful"]
 characters_array.each do |characters_array|
-   puts "Hello Dopey! #{characters_array.capitalize} wants to start a union!"
+   puts "Hello #{characters_array.capitalize}!"
 end 
   # Use `each` to enumerate over the provided array
   #
