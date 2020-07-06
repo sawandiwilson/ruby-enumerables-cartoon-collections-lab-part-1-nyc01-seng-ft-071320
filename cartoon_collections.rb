@@ -9,7 +9,7 @@ end
 end
 
 def list_dwarves(array)
-  dwarves_array = ["Gimli", "Thorin", "Balin", "Gloin"]
+  dwarves_array = ["1.Gimli", "2.Thorin", "3.Balin", "4.Gloin"]
   # Use `each_with_index` to enumerate over the provided array
 dwarves_array.each do |array|
   puts array
